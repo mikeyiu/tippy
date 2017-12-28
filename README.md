@@ -27,7 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/d033a38f-dde0-4b62-b25f-0a61d3e7cfc8' title='mike yiu first app Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=''Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="MMabaEN"><a href="//imgur.com/MMabaEN">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
